@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: producer
+
+
+server:
+  port: 8080
+
+topic:
+  name: t.food.order
+
+habr: https://habr.com/ru/companies/otus/articles/663264/
